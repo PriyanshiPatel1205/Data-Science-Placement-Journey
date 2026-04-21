@@ -1,4 +1,4 @@
-#Strings
+#Strings - immutable in python (cannot be changed after creation)
 str1 = "Hello World"
 str2 = 'Python Programming'
 str3 = """This is a multi-line string."""
